@@ -10,3 +10,4 @@ This is a demonstration of how to run HumanEval on GPT-3.5 and GPT-4 while takin
 
 - [human-eval](https://github.com/jamesmurdza/humaneval-results): Fork of OpenAI's HumanEval framework used in this workflow.
 - [humaneval-results](https://github.com/jamesmurdza/humaneval-results): Repository of HumanEval solutions generated with this workflow.
+- [agenteval](https://github.com/jamesmurdza/agenteval): Early version of a framework for evaluating code generation agents.
